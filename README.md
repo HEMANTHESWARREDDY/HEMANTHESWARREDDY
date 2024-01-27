@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 *******
 
 <img src="https://komarev.com/ghpvc/?username=HEMANTHESWARREDDY&color=brightgreen" alt="watching_count" />
+
+*******
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)

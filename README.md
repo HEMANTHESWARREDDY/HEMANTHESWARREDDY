@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 *******
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O)

@@ -24,12 +24,10 @@ Here are some ideas to get you started:
 
 *******
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HEMANTHESWARREDDY&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HEMANTHESWARREDDY&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />     <img src="https://komarev.com/ghpvc/?username=HEMANTHESWARREDDY&color=brightgreen" alt="watching_count" />
+
 
 *******
 
 <img src="https://komarev.com/ghpvc/?username=HEMANTHESWARREDDY&color=brightgreen" alt="watching_count" />
 
-*******
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O)

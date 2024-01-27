@@ -29,7 +29,3 @@ Here are some ideas to get you started:
 *******
 
 <img src="https://komarev.com/ghpvc/?username=HEMANTHESWARREDDY&color=brightgreen" alt="watching_count" />
-
-*******
-
-[![Dhanushka Medium](https://github-readme-medium.vercel.app/?username=HEMANTHESWARREDDY)](https://medium.com/@HEMANTHESWARREDDY)

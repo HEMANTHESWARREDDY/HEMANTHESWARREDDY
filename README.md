@@ -10,7 +10,7 @@
   <img src="https://hits.sh/github.com/HEMANTHESWARREDDY/HEMANTHESWARREDDY.svg?style=flat-square&label=PROFILE%20VIEWS&color=blueviolet" alt="Profile Views" />
 </h1>
 
-### Software Engineer | Java • Spring Boot • React • AI/ML
+### Software Engineer | Java • Spring Boot • React • AIML
 
 Software Engineer at Infosys focused on backend development, full-stack applications, and AI-powered solutions.
 
@@ -60,7 +60,7 @@ Software Engineer at Infosys focused on backend development, full-stack applicat
 
 ---
 
-### 🤖 AI/ML
+### 🤖 AIML
 
 <p>
   <img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square" alt="Machine Learning" />

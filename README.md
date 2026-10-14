@@ -22,28 +22,31 @@ Software Engineer at Infosys focused on backend development, full-stack applicat
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
 ### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts" alt="Java, Python, JavaScript, TypeScript" />
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="MySQL, MongoDB, PostgreSQL" />
 
 </td>
-</tr>
-</table>
-
----
+<td width="34%" valign="top">
 
 ### ⚙️ Frameworks
 
 <img src="https://skillicons.dev/icons?i=spring,react" alt="Spring Boot and React" />
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 🛠️ Tools
 
@@ -53,7 +56,7 @@ Software Engineer at Infosys focused on backend development, full-stack applicat
 
 <img src="https://skillicons.dev/icons?i=aws,azure" alt="AWS and Azure" />
 
-**🏅 Certification:** AWS Cloud Practitioner | Microsoft Azure Fundamentals
+**Certifications:** AWS Cloud Practitioner | Microsoft Azure Fundamentals
 
 ---
 
